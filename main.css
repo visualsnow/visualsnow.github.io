@@ -1,0 +1,47 @@
+@font-face{
+    font-family: 'ProggyTiny';
+    src:url('ProggyTiny.ttf');
+    format('ttf');
+}
+
+.custom{
+    font-family: ProggyTiny;
+    font-size: 14px;   
+}
+
+.custom h1{
+    color: white;
+    line-height: 10rem;
+}
+
+.container{
+    background-color: black;
+    
+}
+
+.page-title{
+    text-align:center;
+    font-weight: 100;
+    font-size: 38px;
+}
+
+.link-border{
+    border: 1px solid #FFF;
+    border-width: 3px;;
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+    font-family: ProggyTiny;
+    line-height: 2.2rem;
+    width: 550px;
+    height: 173px;
+    margin: auto;
+}
+
+.greetings{
+    text-align:center;
+    color:#FFF;
+    line-height: 0.5em;
+}
+
